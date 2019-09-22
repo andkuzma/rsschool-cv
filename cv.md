@@ -6,7 +6,7 @@
   * [Telegram](http://https//t.me/andkuzma)
 
 ### Summary:
-  * my goal is to start work as Junior Front-End Developer
+  * my goal is to start work as trainee Front-End Developer
 
 ### Skills:
   * HTML5
